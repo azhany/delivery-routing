@@ -1,0 +1,5 @@
+*
+!public/
+!bank-logo/
+!bank-logo/*
+!.gitignore
